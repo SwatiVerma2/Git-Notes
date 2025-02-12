@@ -109,3 +109,8 @@ Cons of Rebase:
 
 ❌ Harder to undo (git reflog is needed to recover lost commits).
 
+## Use Case
+
+![image](https://github.com/user-attachments/assets/13807045-1f1c-4fe8-a36d-014a3c058eb5)
+
+
