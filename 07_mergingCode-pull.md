@@ -57,7 +57,6 @@
 ![image](https://github.com/user-attachments/assets/7d775146-4832-4b3e-a834-c78746ef487f)
 
 - A merge commit (M) is created to join the branches.
-- 
 - The history remains non-linear (branches remain visible).
 
 Pros of Merge:
