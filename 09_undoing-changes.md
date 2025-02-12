@@ -1,5 +1,7 @@
 # Undoing Changes
 
+# Git Reset
+
 ## Case 1 : Undo staged changes
 
 1. Unstage a Specific File: 
@@ -52,3 +54,9 @@ staged file --> not staged
 ![image](https://github.com/user-attachments/assets/038771e1-7416-4456-8832-9c77d948a327)
 
 
+# Git Revert
+
+- Undo a Commit Without Losing History
+- git revert creates a new commit that undoes the changes made by a previous commit.
+- Unlike git reset, it preserves the commit history, making it ideal for collaborative workflows
+- `git revert <commit-hash>`
